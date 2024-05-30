@@ -3,7 +3,7 @@ import JSBI from 'jsbi';
 /**
  * @deprecated use FACTORY_ADDRESS_MAP instead
  */
-export declare const FACTORY_ADDRESS = "0x2EA9051d5a48eA2350b26306f2b959D262cf67e1";
+export declare const FACTORY_ADDRESS = "0x13Cf71Ec4Aa04E359Aad60ff795ec7312A190C85";
 export declare const FACTORY_ADDRESS_MAP: {
     [chainId: number]: string;
 };
