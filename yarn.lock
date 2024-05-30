@@ -1580,8 +1580,8 @@
     toformat "^2.0.0"
 
 "@uniswap/v2-core@https://github.com/LucyTrump0x/uni-core":
-  version "4.2.3"
-  resolved "https://github.com/LucyTrump0x/uni-core#becf893ccb3ee34e1fe6c00546e7b09013a611a7"
+  version "5.2.3"
+  resolved "https://github.com/LucyTrump0x/uni-core#872d9a5cc8eb5ab3b4cc16bcea05e5bb06b4cd1a"
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
